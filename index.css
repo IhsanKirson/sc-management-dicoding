@@ -3,3 +3,9 @@
     font-size: 20px;
     text-align: center;
 }
+
+#kaki {
+    border-top: 3px solid darkgray;
+    font-size: 16px;
+    text-align: right;
+}
